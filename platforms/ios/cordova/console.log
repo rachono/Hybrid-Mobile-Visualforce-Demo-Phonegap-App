@@ -1,0 +1,13 @@
+2015-02-04 10:33:07.175 Hello World[50153:1861656] Apache Cordova native platform version 3.7.0 is starting.
+2015-02-04 10:33:07.184 Hello World[50153:1861656] Multi-tasking -> Device: YES, App: YES
+2015-02-04 10:33:07.207 Hello World[50153:1861656] Unlimited access to network resources
+2015-02-04 10:33:07.227 Hello World[50153:1861656] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-02-04 10:33:08.426 Hello World[50153:1861656] Resetting plugins due to page load.
+2015-02-04 10:33:08.768 Hello World[50153:1861656] Finished load of: file:///Users/wesnotle/Library/Developer/CoreSimulator/Devices/CFC82F1A-B850-4C25-81F5-F767A3F89B9C/data/Containers/Bundle/Application/E93A10E5-18EF-44FF-9AFD-F4DE1338A370/Hello%20World.app/www/index.html
